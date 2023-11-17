@@ -26,6 +26,9 @@ Se você deseja contribuir para o desenvolvimento deste projeto, fique à vontad
 
 Este projeto está sob a licença [MIT](LICENSE).
 
+
+## Autor
+Agata Domingues Farias
 ---
 
 **Nota:** Certifique-se de fornecer as notas de maneira correta ao seguir as instruções no console.
